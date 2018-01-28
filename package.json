@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "version": "",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "stat-mode": "^0.2.2"
+  }
+}
